@@ -1,3 +1,8 @@
+# Screenshots
+<img src="https://github.com/SalimCanTetiker/QuizApp/assets/99422185/5c992555-026c-4d48-8fb9-bf2c030b283b" width='250' height='500' />
+<img src="https://github.com/SalimCanTetiker/QuizApp/assets/99422185/d7c529d7-fd44-49fc-9989-0dc3c0e681e7" width='250' height='500' />
+<img src="https://github.com/SalimCanTetiker/QuizApp/assets/99422185/f013c2e0-a32f-49f9-b529-6c12624a57dc" width='250' height='500' />
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
